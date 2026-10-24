@@ -1,1 +1,1 @@
-Notification feature added
+This is a notification feature
