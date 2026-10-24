@@ -1,0 +1,3 @@
+Git fetch practice
+Remote changes are downloaded locally
+Fetch does not merge changes into the current branch
